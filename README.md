@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ajokeliz1 
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning SQL, Deep Machine Learning, Python etc..
 - 💞️ I’m looking to collaborate Data Science related problems
 - 📫 How to reach me @Ajokeliz1
